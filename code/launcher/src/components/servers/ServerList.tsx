@@ -244,7 +244,7 @@ export default function ServerList () {
             <Table
               sx={{ minWidth: 750, tableLayout: 'fixed' }}
               aria-labelledby="tableTitle"
-              size='medium'
+              size="small"
             >
               <HeadRow
                 order={order}
